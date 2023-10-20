@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hou-yanbin
 - 👀 I’m interested in java；
 - 🌱 I’m currently learning java；
-- 💞️ I’m looking to collaborate on www.houyanbin.com；
+- 💞️ I’m looking to collaborate on www.houyanbin.com
 - 📫 How to reach me 256595662@qq.com；
 
 <!---
