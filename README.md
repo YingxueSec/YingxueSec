@@ -3,8 +3,6 @@
 </h1>
 
 - 👋 Hi, I’m @YingxueSec
-- 👀 I’m interested in java；
-- 🌱 I’m currently learning java；
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me jackh0u@qq.com；
 - 📫 How to reach me 
